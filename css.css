@@ -1,0 +1,16 @@
+#homero
+  {
+    position:absolute;
+    width: 35%;
+  }
+  #homeroViaje{
+    width: 35%;
+  }
+  
+  #cambiosfort
+  {
+    position: absolute;
+    width: 35%;
+    z-index: 5;
+    left: 0%;
+  }
